@@ -4,7 +4,7 @@ A full-stack, responsive Student Management System designed to handle complete C
 
 ---
 
-## 🚀 Features
+## Features
 
 * **Full CRUD Functionality:** Dynamically add, view, update, and delete student profiles.
 * **Real-Time Notifications:** Integrated UI alerts tracking the status of system actions (success/error states).
@@ -14,7 +14,7 @@ A full-stack, responsive Student Management System designed to handle complete C
 
 ---
 
-## 🛠️ Technology Stack
+##  Technology Stack
 
 ### Backend
 * **Java:** 17+
@@ -31,7 +31,7 @@ A full-stack, responsive Student Management System designed to handle complete C
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```text
 student-management-system/
